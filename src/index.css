@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.moleContainer{
+  display: inline-block;
+  width: 30vw;
+  margin: auto;
+}
+img{
+  width: 30vw;
+  max-width: 25vh;
+}
